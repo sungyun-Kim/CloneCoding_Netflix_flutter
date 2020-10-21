@@ -12,7 +12,8 @@ flutter
 ### 목표
 - [x] UI 제작 
 - [ ] Model 개선     
-- [ ] firebase 연동 (auth, firestore)
+- [ ] firebase 연동 (auth, firestore)   
+- [ ] 더보기 탭의 profile
 
 ### 클론 할 경우
 
